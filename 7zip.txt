@@ -8,7 +8,6 @@ URLSite = https://www.7-zip.org/
 URLDownload = https://www.7-zip.org/a/7z2408.exe
 SHA1 = eb4b809bbf91804e9bb17be36e9469818601ed91
 SizeBytes = 1335296
-Icon = 7zip.ico
 
 [Section.amd64]
 Version = 24.08
